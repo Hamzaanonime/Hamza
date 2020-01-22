@@ -40,17 +40,17 @@ def restart_program():
 
 
 def banner():                                            	               	
-        print '%s_____>              /\                                 
-        print '%s----->              ||_____-----_____-----_____    ' % (Y, R, Y, R, Y, N)
-        print '%s----->              ||   O                  O  \   ' % (Y, R, Y, R, Y, N)
-        print '%s----->              ||    O\\    ___    //O    /   ' % (Y, R, Y, R, Y, N)
-        print '%s----->              ||       \\ /   \//        \   ' % (Y, R, Y, R, Y, N)
-        print '%s----->              ||         |_O O_|         /   ' % (Y, R, Y, R, Y, N)              
-        print '%s----->              ||        // UUU \\        /   ' % (Y, R, Y, R, Y, N)
-        print '%s----->              ||    O//            \\O   \   ' % (Y, R, Y, R, Y, N)
-        print '%s----->              ||   O                  O  /   ' % (Y, R, Y, R, Y, N)
-        print '%s----->              ||_____-----_____-----_____\   ' % (Y, R, Y, R, Y, N)
-        print '%s----->              ||                             ' % (Y, R, Y, R, Y, N)
+        print '%s/\                            %s'% (R, N) 
+        print '%s||_____-----_____-----_____  %s' % (R, Y, R, N)
+        print '%s||   O      Hamza       O  \ %s' % (R, Y, R, N)
+        print '%s||    O\\    ___    //O    / %s' % (R, Y, R, N)
+        print '%s||       \\ /   \//        \ %s' % (R, Y, R, N)
+        print '%s||         |_O O_|         / %s' % (R, Y, R, N)              
+        print '%s||        // UUU \\        / %s' % (R, Y, R, N)
+        print '%s||    O//            \\O   \ %s' % (R, Y, R, N)
+        print '%s||   O       Anonime    O  / %s' % (R, Y, R, N)
+        print '%s||_____-----_____-----_____\ %s' % (R, Y, R, N)
+        print '%s||                           %s' % (R, Y, R, N)
         
         
 
