@@ -76,7 +76,7 @@ clear()
 banner()
 try:
 	print
-	print '%svbu%sg m%saker %s08-09-2019 %s(10:32)%s' % (R, Y, R, G, Y, N)
+	print '%sHam%sg z%sa %s08-09-2019 %s(10:32)%s' % (R, Y, R, G, Y, N)
 	print '%sAuthor         : %sDedSecTL%s' % (G, R, N)
 	print '%sSpecial Thanks : %sHendriyawan %s( mr_silent )%s' % (G, R, Y, N)
 	print '%sCode           : %sPython%s' % (G, Y, N)
