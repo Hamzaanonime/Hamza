@@ -40,20 +40,13 @@ def restart_program():
 
 
 def banner():                                            	               	
-        print '%s/\                            %s'% (R, N) 
-        print '%s||_____-----_____-----_____  %s' % (R, Y, R, N)
-        print '%s||   O      Hamza       O  \ %s' % (R, Y, R, N)
-        print '%s||    O\\    ___    //O    / %s' % (R, Y, R, N)
-        print '%s||       \\ /   \//        \ %s' % (R, Y, R, N)
-        print '%s||         |_O O_|         / %s' % (R, Y, R, N)              
-        print '%s||        // UUU \\        / %s' % (R, Y, R, N)
-        print '%s||    O//            \\O   \ %s' % (R, Y, R, N)
-        print '%s||   O       Anonime    O  / %s' % (R, Y, R, N)
-        print '%s||_____-----_____-----_____\ %s' % (R, Y, R, N)
-        print '%s||                           %s' % (R, Y, R, N)
         
-        
-
+        print '%s        _                            _               %s' % (R, N)
+	print '%s   _ _ | |_  _ _ %s ___    _____ %s ___ | |_  ___  ___   %s' % (R, Y, R, N)
+	print "%s  | | || . || | |%s| . |  |     |%s| .'|| '_|| -_||  _|  %s" % (R, Y, R, N)
+	print '%s   \\_/ |___||___|%s|_  |  | |_|_|%s|__,||_,_||___||_|	%s' % (R, Y, R, N)
+	print '%s __________________| |  | |_______________________   %s' % (Y, N)
+	print '%s|_____Hamza___________  |  |_________________________| %s' % (Y, N)
 def anvima():
 	print '%s+---------------------------------------------------+%s' % (R, N)
 	print '%s||[#]%s--------------%s[ hamza azg]%s---------------%s[#]||%s' % (Y, R, Y, R, Y, N)
