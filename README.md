@@ -7,4 +7,4 @@ apt-get install git python
 
 git clone https://github.com/Hamzaanonime/Hamza/tree/master
 cd hamza
-python hamza.py
+python2 Hamza.py
