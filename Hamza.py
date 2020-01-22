@@ -2,7 +2,7 @@
 # encoding: utf-8
 """
 Author  : DedSecTL
-Date	: 08-09-2019
+Date	: 01.01.2020
 Name	: Hamza Maker
 Purpose : Generate any virus on your device
 Thanks to Mr_Silent, Ghifari, Mr.Holmes, Mr_/bon'007, ID_OUT96...
