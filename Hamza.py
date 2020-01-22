@@ -3,10 +3,10 @@
 """
 Author  : DedSecTL
 Date	: 01.01.2020
-Name	: Hamza Maker
+Name	: Hamza Azougagh
 Purpose : Generate any virus on your device
 Thanks to Mr_Silent, Ghifari, Mr.Holmes, Mr_/bon'007, ID_OUT96...
-(c) 2017-2019, DedSecTL All rights reserved.
+(c) 2019-2020, DedSecTL All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, 
 are permitted provided that the following conditions are met: * Redistributions 
@@ -46,7 +46,7 @@ def banner():
 	print "%s  | | || . || | |%s| . |  |     |%s| .'|| '_|| -_||  _|  %s" % (R, Y, R, N)
 	print '%s   \\_/ |___||___|%s|_  |  | |_|_|%s|__,||_,_||___||_|	%s' % (R, Y, R, N)
 	print '%s __________________| |  | |_______________________   %s' % (Y, N)
-	print '%s|_____Hamza___________  |  |_________________________| %s' % (Y, N)
+	print '%s|_____Hamza___________  |  |___________Anonime______________| %s' % (Y, N)
 def anvima():
 	print '%s+---------------------------------------------------+%s' % (R, N)
 	print '%s||[#]%s--------------%s[ hamza azg]%s---------------%s[#]||%s' % (Y, R, Y, R, Y, N)
@@ -57,8 +57,8 @@ def anvima():
 
 def winvima():
 	print '%s+---------------------------------------------------+%s' % (R, N)
-	print '%s||[#]%s--------------%s[ Hamza Maker ]%s---------------%s[#]||%s' % (Y, R, Y, R, Y, N)
-	print '%s||%s |___________%s[ Simple Virus Maker ]%s____________|%s ||%s' % (Y, R, Y, R, Y, N)
+	print '%s||[#]%s--------------%s[ Hamza Azougagh]%s---------------%s[#]||%s' % (Y, R, Y, R, Y, N)
+	print '%s||%s |___________%s[ Simple Virus Azougagh]%s____________|%s ||%s' % (Y, R, Y, R, Y, N)
 	print '%s||%s |____________%s[ Winvima--Session ]%s_____________|%s ||%s' % (Y, R, Y, R, Y, N)
 	print '%s+---------------------------------------------------+%s' % (R, N)
 	print
